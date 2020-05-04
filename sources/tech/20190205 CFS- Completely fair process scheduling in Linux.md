@@ -7,7 +7,7 @@
 [#]: via: (https://opensource.com/article/19/2/fair-scheduling-linux)
 [#]: author: (Marty kalin https://opensource.com/users/mkalindepauledu)
 
-CFS: Completely fair process scheduling in Linux
+CFS: Completely fair process scheduling in Linux CFS: Linux上的完全公平进程调度
 ======
 CFS gives every task a fair share of processor resources in a low-fuss but highly efficient way. 
 ![](https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/fail_progress_cycle_momentum_arrow.png?itok=q-ZFa_Eh)
